@@ -29,3 +29,6 @@
 倾斜加粗 ***倾斜***
 倾斜加粗 **_倾斜_**
 删除 ~~删除~~
+
+
+<div align="center"><img width="65" height="75" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/></div>
