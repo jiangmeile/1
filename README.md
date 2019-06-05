@@ -23,4 +23,8 @@
 
 ![我的号](http://img.bestmath.cn/2019/02/25/1551088862232.png "图片title")
 
-~~ android:singleLine=”true”
+加粗   ** 字体 **  	快捷键 ：Ctrl+B
+倾斜   * 斜体 *		快捷键：Ctrl+I
+倾斜   _斜体_
+倾斜加粗   ***字体***、**_字体_**  
+删除   ~~字体~~
