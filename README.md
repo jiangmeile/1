@@ -19,6 +19,6 @@
 ----------
 
 
-[web](http://m.shaboa.com/)
+[这是一个超链接](http://m.shaboa.com/ "链接title")
 
-![我的公众号](http://img.bestmath.cn/2019/02/25/1551088862232.png)
+![这是一个图片](http://img.bestmath.cn/2019/02/25/1551088862232.png "图片title")
