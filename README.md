@@ -32,3 +32,10 @@
 
 
 <div align="center"><img width="65" height="75" src="http://img.bestmath.cn/2019/02/25/1551088862232.png"/></div>
+
+  - [x]  选中
+  - [ ] 未选中
+  - [ ] 一次性水杯
+	- [x] 西瓜
+  - [x] 可口可乐
+	- [ ] 小茗同学
